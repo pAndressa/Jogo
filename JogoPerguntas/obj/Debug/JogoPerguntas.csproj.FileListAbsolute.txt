@@ -1,0 +1,47 @@
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.exe
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.pdb
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas.resources
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.Properties.Resources.resources
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.csproj.GenerateResource.Cache
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.exe
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.pdb
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas2.resources
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas3.resources
+C:\Documents and Settings\Etec\Meus documentos\Visual Studio 2008\Projects\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas4.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.exe
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.pdb
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas10.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas11.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas2.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas3.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas6.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas7.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas8.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas9.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas4.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas5.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.Properties.Resources.resources
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.csproj.GenerateResource.Cache
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.exe
+C:\Documents and Settings\Etec\Desktop\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.pdb
+E:\Visual\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.exe
+E:\Visual\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.pdb
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas10.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas11.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas2.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas3.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas6.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas7.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas8.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas9.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas4.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.frm_perguntas5.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.Properties.Resources.resources
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.csproj.GenerateResource.Cache
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.exe
+E:\Visual\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.pdb
